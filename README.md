@@ -8,4 +8,4 @@ Proyecto para llevar un control de los avances de un proyecto siguiendo la metod
 * Redux Toolkit
 * CSS/MUI 
 * React Testing Library
-El Backend está desarrollado sobre Firebase pero pronto se mudara a un Backend interno 
+*El Backend está desarrollado sobre Firebase pero pronto se mudara a un Backend interno 
