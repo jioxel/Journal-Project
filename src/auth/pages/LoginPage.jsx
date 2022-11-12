@@ -9,8 +9,8 @@ import { checkingAuthentication, startGoogleSingIn, startLoginWithEmailPassword 
 import { useMemo } from 'react'
 
 const formData={
-  email: 'a@l.com',
-  password:'123123',
+  email: '',
+  password:'',
 };
 export const LoginPage = () => {
   const dispatch=useDispatch()
