@@ -2,7 +2,7 @@
 
 Proyecto para llevar un control de los avances de un proyecto siguiendo la metodología Scrum, donde se registra el titulo de la tarea o proyecto, una descripción de lo que se hizo junto con fotos que puedan ser necesarios para llevar un registro correcto de actividades.
 
-[LINK](https://jioxel.github.io/Journal-Scrum-Project/)
+[Journal Scrum App](https://jioxel.github.io/Journal-Scrum-Project/)
 
 # Tecnologías 
 * React 18
